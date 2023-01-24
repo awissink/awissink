@@ -1,12 +1,12 @@
 ## Hello world!
 
 <p align='center'>
-pronouns: she/her/hers
+<a href="https://www.linkedin.com/in/amelia-wissink/"><img height="30" src="https://raw.githubusercontent.com/awissink/awissink/main/assets/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://www.twitter.com/ameliawissink"><img height="30" src="https://raw.githubusercontent.com/awissink/awissink/main/assets/twitter.png"></a>&nbsp;&nbsp;
 </p>
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/amelia-wissink/"><img height="30" src="https://raw.githubusercontent.com/awissink/awissink/main/assets/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://www.twitter.com/ameliawissink"><img height="30" src="https://raw.githubusercontent.com/awissink/awissink/main/assets/twitter.png"></a>&nbsp;&nbsp;
+<i>pronouns: she/her/hers</i>
 </p>
 
 I'm Amelia and I'm a junior at Columbia University studying Computer Science. I'm passionate about the intersection of CS and education and am new to open source development. You can find my resume here.

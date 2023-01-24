@@ -5,6 +5,7 @@
 <a href="https://www.twitter.com/ameliawissink"><img height="30" src="https://raw.githubusercontent.com/awissink/awissink/main/assets/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://awissink.github.io"><img height="30" src="https://raw.githubusercontent.com/awissink/awissink/main/assets/heart.png"></a>&nbsp;&nbsp;
 <a href="mailto:afw2122@columbia.edu"><img height="30" src="https://raw.githubusercontent.com/awissink/awissink/main/assets/gmail.png"/></a>&nbsp;&nbsp;
+<a href="https://www.goodreads.com/user/show/83938346-amelia-wissink"><img height="30" src="https://raw.githubusercontent.com/awissink/awissink/main/assets/goodreads.png"></a>&nbsp;&nbsp;
 </p>
 
 <p align='center'>

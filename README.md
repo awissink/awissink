@@ -12,7 +12,7 @@
 <i>pronouns: she/her/hers</i>
 </p>
 
-I'm Amelia and I'm a junior at Columbia University studying Computer Science. I'm passionate about the intersection of CS and education and am new to open source development. You can find my resume here.
+I'm Amelia and I'm a junior at Columbia University studying Computer Science. I'm passionate about the intersection of CS and education and am new to open source development. You can find my resume [here](assets/resume.pdf).
 
 ### Experience
 TBD

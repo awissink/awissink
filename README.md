@@ -16,9 +16,9 @@ I'm Amelia and I'm a junior at Columbia University studying Computer Science. I'
 
 ### Experience
 - **Google:** STEP Intern, May-August 2022
-- **Columbia:**: Teaching Assistant, September 2021-current
+- **Columbia:** Teaching Assistant, September 2021-current
   - Courses: Data Structures, Intro to Databases, Intro to Java
-- **Girls Who Code**: Teaching Assistant, June-August 2021
+- **Girls Who Code:** Teaching Assistant, June-August 2021
 
 ### What am I listening to?
 

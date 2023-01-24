@@ -15,7 +15,10 @@
 I'm Amelia and I'm a junior at Columbia University studying Computer Science. I'm passionate about the intersection of CS and education and am new to open source development. You can find my resume [here](assets/resume.pdf).
 
 ### Experience
-TBD
+- **Google:** STEP Intern, May-August 2022
+- **Columbia:**: Teaching Assistant, September 2021-current
+  - Courses: Data Structures, Intro to Databases, Intro to Java
+- **Girls Who Code**: Teaching Assistant, June-August 2021
 
 ### What am I listening to?
 

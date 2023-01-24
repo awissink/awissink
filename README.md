@@ -3,6 +3,7 @@
 <p align='center'>
 <a href="https://www.linkedin.com/in/amelia-wissink/"><img height="30" src="https://raw.githubusercontent.com/awissink/awissink/main/assets/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://www.twitter.com/ameliawissink"><img height="30" src="https://raw.githubusercontent.com/awissink/awissink/main/assets/twitter.png"></a>&nbsp;&nbsp;
+<a href="mailto:afw2122@columbia.edu"><img src="https://raw.githubusercontent.com/awissink/awissink/main/assets/gmail.png"/></a>&nbsp;&nbsp;
 </p>
 
 <p align='center'>

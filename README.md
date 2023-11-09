@@ -11,7 +11,7 @@
 <i>pronouns: she/her/hers</i>
 </p>
 
-I'm Amelia and I'm a senior at Columbia University studying Computer Science. I'm passionate about the intersection of CS and education and am interested in machine learning and frontend development. You can find my resume [here](assets/resume.pdf).
+I'm Amelia and I'm a senior at Columbia University studying Computer Science. I'm passionate about the intersection of CS and education and am interested in machine learning and frontend development. You can find my resume [here](assets/resume_NEW.pdf).
 
 ### Experience
 - **Google**: SWE Intern, New York, Summer 2023

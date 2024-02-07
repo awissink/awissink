@@ -14,6 +14,7 @@
 I'm Amelia and I'm a senior at Columbia University studying Computer Science. I'm passionate about the intersection of CS and education and am interested in machine learning and frontend development. You can find my resume [here](assets/resume_NEW.pdf).
 
 ### Experience
+- **Apple**: Software Engineer, Evolve Rotational Program, New York, Postgrad
 - **Google**: SWE Intern, New York, Summer 2023
 - **Google:** STEP Intern, San Bruno, May-August 2022
 - **Columbia:** Teaching Assistant, September 2021-current

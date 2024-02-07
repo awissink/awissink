@@ -18,7 +18,7 @@ I'm Amelia and I'm a senior at Columbia University studying Computer Science. I'
 - **Google**: SWE Intern, New York, Summer 2023
 - **Google:** STEP Intern, San Bruno, May-August 2022
 - **Columbia:** Teaching Assistant, September 2021-current
-  - Courses: Data Structures, Intro to Databases, Intro to Java
+  - Courses: Data Structures, Intro to Databases, Intro to Java, User Interface Design
 - **Girls Who Code:** Teaching Assistant, June-August 2021
 
 ### Languages and Tools

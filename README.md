@@ -11,7 +11,7 @@
 <i>pronouns: she/her/hers</i>
 </p>
 
-I'm Amelia and I'm a recent graduate from Columbia University with a B.S. in Computer Science. I'm passionate about the intersection of CS and education and am interested in machine learning and full stack development. You can find my resume [here](assets/resume_NEW.pdf).
+I'm Amelia and I'm a recent graduate from Columbia University with a B.S. in Computer Science. I'm passionate about the intersection of CS and education and am interested in machine learning and full stack development.
 
 ### Experience
 - **Apple**: Software Engineer, Evolve Rotational Program, New York, Current
